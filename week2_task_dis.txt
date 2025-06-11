@@ -1,0 +1,30 @@
+# project (week 2)
+# tittle: authentication system using all the things we have learned so far
+
+# project breakdown
+# requirements
+# feature 1
+# 1. loop (while loop infinite (show the ui and input boxes so that user can input values like username and password))
+# 2. input data
+#   2.1: user enters correct password
+#      message: login success!!
+#   2.1: user enters wrong password
+#      message: please enter right password
+#      next step: show that input box which is in the first step to make sure user can reenter the password
+
+# feature 2
+# 1. user should be able to create an accout and with that account he/she will be able to login later
+# 2. after creation login flow will be same as step one
+# 3. optional: make sure there is some special characters and caps letter small letter and digits in the password
+# 4. optional: lets assume we will use gmail account as username so there should be @gmail.com at the end of the string
+
+# tools to use
+# 1. while loop
+# 2. dict to store the email and password in memory
+# 3. switch cases (to make ui for user so that user can choose from multiple options)
+# 4. if/else statement to compare cases if entered password and usernames are valid of not
+# 5. variables to store the user data
+# 6. break to get out of the application (conditional, if user chooses to break out of the application)
+# 7. contine to skip the current loop in case we dont want to execute further code, ex: if user enters the wrong password then we will print the message and continue the loop
+# 8. user functions to properly divide the code so that we can reuse that in multiple places
+
