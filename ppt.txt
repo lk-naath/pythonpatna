@@ -1,0 +1,5 @@
+1. introduction (overview of all tasks)
+2. project overview (basic overview of all the tasks which will include idea)
+3. requirement discussion (ex: user should be able to navigate to different feature of the application like for atm machine there can be multiple cases where user should be able to specify cash, pin no, withdraw )
+
+4. wireframe (this will show all the flow related to the application and the user interaction like if user clicks this then this page will be visible)
